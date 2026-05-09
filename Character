@@ -1,0 +1,8 @@
+class Main {
+    public static void main(String[] args) {
+        String gk = "I love my country";
+
+        System.out.println(gk.indexOf("my"));
+        System.out.println(gk.charAt(8));
+    }
+}
